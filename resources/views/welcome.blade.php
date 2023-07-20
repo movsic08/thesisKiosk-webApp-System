@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>SAMPLE LANG HASHAHSAH</title>
+        <title>SAMPLE LANG HASHAHSAHgit</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
